@@ -1,6 +1,6 @@
 # Modus themes for WezTerm
 
-This repo contains the Modus themes made by Protesialos (aka "prot") for wezterm.
+This repo contains the Modus themes made by Protesilaos (aka "prot") for wezterm.
 As the existing themes dont work correctly with emacs in terminal and also partially 
 do not use the correct colors i decided to make an own spin.
 
