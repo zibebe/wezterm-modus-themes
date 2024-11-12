@@ -35,7 +35,7 @@ wezterm.on('window-config-reloaded',
 See here for more informations: https://wezfurlong.org/wezterm/config/lua/window/get_appearance.html
 
 ## Kudos
-Protesialos for the modus themes - https://protesilaos.com/emacs/modus-themes-colors
+Protesilaos for the modus themes - https://protesilaos.com/emacs/modus-themes-colors
 
 ## Alternatives
 (both of these are built into wezterm)
