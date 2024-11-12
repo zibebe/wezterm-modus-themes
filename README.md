@@ -38,5 +38,6 @@ See here for more informations: https://wezfurlong.org/wezterm/config/lua/window
 Protesialos for the modus themes - https://protesilaos.com/emacs/modus-themes-colors
 
 ## Alternatives
+(both of these are built into wezterm)
 - anhsirk0 port - https://github.com/anhsirk0/wezterm-themes
 - Gogh themes - https://github.com/Gogh-Co/Gogh
