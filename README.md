@@ -4,7 +4,7 @@ This repo contains the Modus themes made by Protesialos (aka "prot") for wezterm
 As the existing themes dont work correctly with emacs in terminal and also partially 
 do not use the correct colors i decided to make an own spin.
 
-## Usaged
+## Usage
 Simply clone the repo into your ~/.config/wezterm and set the desired theme in your config.lua
 
 ### Auto (Dark/Light)
@@ -32,10 +32,11 @@ wezterm.on('window-config-reloaded',
                end
            end)
 ```
+See here for more informations: https://wezfurlong.org/wezterm/config/lua/window/get_appearance.html
 
 ## Kudos
 Protesialos for the modus themes - https://protesilaos.com/emacs/modus-themes-colors
 
 ## Alternatives
-anhsirk0 port - https://github.com/anhsirk0/wezterm-themes
-Gogh themes - https://github.com/Gogh-Co/Gogh
+- anhsirk0 port - https://github.com/anhsirk0/wezterm-themes
+- Gogh themes - https://github.com/Gogh-Co/Gogh
